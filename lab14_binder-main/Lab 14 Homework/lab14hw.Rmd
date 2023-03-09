@@ -1,0 +1,78 @@
+---
+title: "Lab 14 Homework"
+author: "Kyle De Mariano"
+date: "`r Sys.Date()`"
+output:
+  html_document: 
+    theme: spacelab
+    toc: yes
+    toc_float: yes
+    keep_md: yes
+---
+
+## Lab 14 Binder
+If you want to return to the binder, find the [repository and instructions here](https://github.com/hehouts/lab14_binder)
+
+## Instructions
+Answer the following questions in RMarkdown. Please embed all of your code and push your final work to your repository. Be sure to add your name to the author header above.
+
+
+
+## Questions
+
+1. Look up 'Data Scientist' at https://www.bls.gov/. What degree is required for this career? Is it a growing occupation?  
+```{r}
+# A Bachelor's Degree in mathematics, statisitcs, computer science, or related field is required to enter the occupation. Employment of Data Science is projected to grow 36 percent from 2021 to 2031.
+```
+
+
+2. How would you describe your data science skills on a resume for a job application? Write a blurb that reflects the skills you have learned in this course. 
+```{r}
+# Proficient at using RStudio. Understands how to select and filter certain data and produce graphs to show research. Knows how to produce applications when given a data set. 
+```
+
+
+3. What are your current career interests, and how could your R skills support that career path? (hint: this might be good content for your LinkedIn profile ;)
+```{r}
+# I am interested in working at a Biotechnoloy start up and pursuing an MBA on the side. R skills are helpful because the use of RStudio is can be very prominant in the Biotech industry. 
+```
+
+
+4. What about this course has been the most difficult for you? What has been the most rewarding?
+```{r}
+#The two hours of class is kind of difficult but being able to understand RStudio and putting it on my resume is the most rewarding.
+```
+
+
+5. What do you wish you had known, or what skills do you wish you had, before taking this class.
+```{r}
+# I am not too sure because this class is very beginner friendly. I know how to use Python so this class was pretty easy for me. I think maybe basic computer science skills might be helpful before taking this class.
+```
+
+
+6. If we had 1 more lab in this class, what would you have liked to learn more about?
+```{r}
+#Maybe something more Biospecific. Like a Lab on DNA or something specific that can help stimulate career interests.
+```
+
+
+7. Now that you have (almost!) completed this course, do you plan to persue further data or computer science skills? What do you plan to do?
+```{r}
+# Yes, I am planning on learning more in the computer sicnece industry. I'd like to get more proficient at Python. I think I will try to minor in CS or possibly taking a CS bootcamp right after college.
+```
+
+
+8. How important was working with a partner to your success in this class? If this class were transitioned to an online format, how do you think that would affect your understanding?
+```{r}
+#Extremely important. Me and my friend Gautam always reached out to eachoher if we were stuck. I do not think this is a good class for online format because I feel like online classes you can feel very lonely and scared to reach out to people for help. 
+```
+
+
+9. Did you complete the class evaluation? Please complete the class evaluation using the link provided in the announcements. Your feedback is very important and we appreciate your time.
+```{r}
+#Yes I completed it
+```
+
+
+## Push your final code to GitHub!
+Please be sure that you check the `keep md` file in the knit preferences. 
